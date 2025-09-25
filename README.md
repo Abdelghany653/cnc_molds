@@ -39,6 +39,12 @@ Experienced in **designing, programming, and operating CNC machines** for the ma
 
 ![demo](sim_.gif)
 
+![demo](sim_1.gif)
+
+![demo](sim_1.gif)
+
+![demo](sim_1.gif)
+
 
 ## Skills & Tools
 - **SolidWorks**  
