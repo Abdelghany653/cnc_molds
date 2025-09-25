@@ -37,6 +37,8 @@ Experienced in **designing, programming, and operating CNC machines** for the ma
 
 ![CNC Injection Mold](mold.png)
 
+![demo](sim_3.gif)
+
 
 ## Skills & Tools
 - **SolidWorks**  
