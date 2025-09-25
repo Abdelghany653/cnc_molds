@@ -29,7 +29,7 @@ Experienced in **designing, programming, and operating CNC machines** for the ma
 - Designed and simulated **precision injection molds** for plastic packaging containers (fruits & vegetables).  
 - Optimized CNC toolpaths and machining processes to improve production efficiency.  
  
-![CNC Injection Mold](mold_p1.png)     ![CNC Injection Mold](mold_p2.png)      ![CNC Injection Mold](mold_p3.png)
+![CNC Injection Mold](mold_p1.jpg)     ![CNC Injection Mold](mold_p2.jpg)      ![CNC Injection Mold](mold_p3.jpg)
 
 
 
