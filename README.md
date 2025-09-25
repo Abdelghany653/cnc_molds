@@ -39,11 +39,8 @@ Experienced in **designing, programming, and operating CNC machines** for the ma
 
 ![demo](sim_.gif)
 
-![demo](sim_1.gif)
+![demo](cnc_sim.gif)
 
-![demo](sim_2.gif)
-
-![demo](sim_3.gif)
 
 
 ## Skills & Tools
