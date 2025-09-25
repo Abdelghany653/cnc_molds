@@ -35,7 +35,7 @@ Experienced in **designing, programming, and operating CNC machines** for the ma
 
 ![CNC Injection Mold](mold_p1.jpg)
 
-![CNC Injection Mold](mold.jpg)
+![CNC Injection Mold](mold.png)
 
 
 ## Skills & Tools
