@@ -10,13 +10,13 @@ Experienced in **designing, programming, and operating CNC machines** for the ma
 ## Experience
 
 **CNC Engineer | Master Company | 6th of October City, Cairo, Egypt**  
-*Jan 2025 – Present*  
+*Jan 2025 – March 2026*  
 - Programmed and operated CNC machines for the manufacture of injection molds.  
 - Prepared and optimized CNC programs, monitored machine performance, and ensured strict quality standards.  
 - Collaborated with the production team to maintain smooth workflow and high efficiency.
 
 **CNC Engineer | MZ Advanced Industries Company | Alexandria, Egypt**  
-*Jul 2023 – Aug 2024*  
+*Aug 2022 – Nov 2024*  
 - Designed and developed precision 3D mechanical models using **SolidWorks** for injection molds.  
 - Programmed and optimized CNC machining processes using **PowerMILL** to improve efficiency, reduce material waste, and maintain strict quality standards.  
 - Developed different mold types tailored to diverse applications, ensuring high accuracy, efficiency, and product quality.  
