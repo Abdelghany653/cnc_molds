@@ -33,7 +33,7 @@ Experienced in **designing, programming, and operating CNC machines** for the ma
 
    ![demo](molds.gif)
 
-   ![demo](cnc_sim.gif)
+ 
 
 
 
