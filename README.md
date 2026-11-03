@@ -37,6 +37,6 @@ Experienced in **designing, programming, and operating CNC machines** for the ma
 
 
 
-## Skills & Tools
+## Tools
 - **SolidWorks**  
 - **PowerMILL** 
